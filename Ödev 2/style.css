@@ -1,9 +1,32 @@
-* {
-    text-align: center;
-}
 .google{
     background-color: #EEEEEE;
-    width: 80%;
-    height: 100%;
+    width:  90%;
+    height: 60px;
+    margin: 0 auto 0 auto;
+    text-align: center;
 }
 
+table {
+    border-collapse: separate;
+    width: 90%;
+    margin: auto;
+}
+
+th {
+    border-collapse: separate;
+}
+
+td {
+    border-collapse: separate;
+    text-align: center;
+    height: 76px;
+}
+
+.first{
+    background-color: #7EE5DA;
+    width: 37%;
+}
+
+.second{
+    background-color: #70CCC2;
+}
